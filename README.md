@@ -4,11 +4,13 @@ Welcome to our GCI page!
 
 ### Current information
 
-*We are applying to Google Code-In.*
+*We have been accepted to Google Code-In.*
+
+We are creating our tasks and are updating our GCI docs.
 
 ### Communication
 
-We are mostly communicating via [gitter](https://gitter.im/open-roberta-lab/).
+We are mostly communicating via [gitter](https://gitter.im/open-roberta-lab/GCI). If you have any general questions, come by our GCI channel, some mentors will be available there.
 
 ### General information
 
