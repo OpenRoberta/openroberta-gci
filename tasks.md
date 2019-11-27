@@ -13,4 +13,4 @@ No matter the context of your work you should start with the beginner task TBD t
 
 If your task requires a larger write up it is best to create a [Google Doc](https://www.google.com/docs/about/) and provide a link.
 
-If your task specifies to upload a video, use a screen recording program ([Windows 10](https://betanews.com/2019/01/14/windows-10-screen-recorder-ultility/), [Ubuntu](https://www.omgubuntu.co.uk/2018/06/gnome-shell-screen-recorder-ubuntu)).
+If your task specifies to provide a video, use a screen recording program ([Windows 10](https://betanews.com/2019/01/14/windows-10-screen-recorder-ultility/), [Ubuntu](https://www.omgubuntu.co.uk/2018/06/gnome-shell-screen-recorder-ubuntu)) to capture the necessary material.
