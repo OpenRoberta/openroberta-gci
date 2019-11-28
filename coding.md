@@ -35,8 +35,8 @@ These tasks are very advanced and require knowledge of [git](https://git-scm.com
 Here are some references for [forking](https://help.github.com/en/github/getting-started-with-github/fork-a-repo), [adding remotes](https://help.github.com/en/github/using-git/adding-a-remote) and [pull requests](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
 
 In these tasks you will contribute to our [source code](https://github.com/OpenRoberta/openroberta-lab) directly.
-Even if you want to start here immediately, be sure to tackle the task TBD first.
-Other starter tasks for the Programming category are TBD and TBD, which you should also do before starting with other GitHub tasks.
+Even if you want to start here immediately, be sure to tackle the task **Hello Roberta** first.
+Other starter tasks for the Programming category are **Building the project** and **First pull request**, which you should also do before starting with other GitHub tasks.
 
 When working on a task consider these points:
 

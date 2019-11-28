@@ -16,7 +16,7 @@ The hardest ones are tagged with *expert*.
 
 ### Getting started
 
-No matter the context of your work you should start with the beginner task TBD to get a feeling of the Lab and how it is used. Depending on the area other good tasks are TBD and TBD.
+No matter the context of your work you should start with the beginner task **Hello Roberta** to get a feeling of the Lab and how it is used. Depending on the area other good tasks are **Roberta Fashion Designer** and **Making life a lot easier**.
 
 ### Additional info and reference
 

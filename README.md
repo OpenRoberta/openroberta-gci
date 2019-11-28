@@ -4,9 +4,7 @@ Welcome to our GCI page!
 
 ### Current information
 
-*We have been accepted to Google Code-In.*
-
-We are creating our tasks and are updating our GCI docs.
+We will update this page with info from frequently asked questions, so be sure to check it from time to time.
 
 ### Communication
 
