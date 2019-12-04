@@ -22,7 +22,7 @@ If you pick one of these tasks the following steps are required:
 
 - Create the specified program using the Lab
 - Document your usage of blocks (with comment blocks) and why you are doing things in a specific way
-- Use the program comment to give a general introduction to your program
+- Use the program documentation view to give an introduction to your program and explain the program in general
 - To provide the program do one of these:
   - export and upload the XML
   - share the program in the Lab with the `RobertaGCI` account and supply your **program name** and **account name**
