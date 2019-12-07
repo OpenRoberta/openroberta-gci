@@ -45,3 +45,4 @@ When working on a task consider these points:
 - Focus on your task, do not make changes where they are not necessary, this makes them easier to review
 - Try to touch as few files as possible
 - Use our [formatter and save actions](https://github.com/OpenRoberta/openroberta-lab/wiki/Importing-into-Eclipse) to keep your code clean
+- Please add an explanation of your findings and course of action to the issue/pull request/task, so we can verify you understood everything correctly
