@@ -9,6 +9,7 @@ Make sure to follow these general guidelines:
   - Photographs: JPG
   - Pixel-based digital art: PNG
   - Vector-based digital art: SVG/EPS/PDF
+  - 3D: .obj + .mtl/.gltf (embedded)/.blend
 - Upload your images using the [CC0](https://creativecommons.org/share-your-work/public-domain/cc0/) license
 - Use the images linked below if your project requires it
 
