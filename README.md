@@ -4,7 +4,10 @@ Welcome to our GCI page!
 
 ### Current information
 
-We will update this page with info from frequently asked questions, so be sure to check it from time to time.
+GCI 2019 is over!
+Thanks to all students who participated, it was a lot of fun for all of us to accompany and mentor you during GCI.
+
+Special thanks to all of our mentors who provided support to the students!
 
 ### Communication
 
